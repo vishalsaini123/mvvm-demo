@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/bottomhome_walletselector.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable-v24/genderbackground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable-v24/otpbackground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable-v24/rounded_profiledetailbtn.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable-v24/roundedloginbtn.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/bottomhome_musicselector.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/bottomhome_selector.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/bottomhome_settingselector.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/bottomhome_walletselector.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/call.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/category_unselectedbackground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/cityspinner_background.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/color_drawable.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/coupon_dashbackground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/friendmsgbackground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/genderbackground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/home_inactive.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/home_m_inactive.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/ic_music.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/listener_home_dashrounded.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/music_inactive.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/online.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/otpbackground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/refer_background.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/rounded_applyinghelpstroke.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/rounded_applyinhhelpbtn.xml" value="0.191" />
+        <entry key="app/src/main/res/drawable/rounded_borderstroke.xml" value="0.2185" />
+        <entry key="app/src/main/res/drawable/rounded_hometab.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_listenerhomestroke.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_profiledetail_btn.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/rounded_raiseedt.xml" value="0.2185" />
+        <entry key="app/src/main/res/drawable/roundedcorner_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/roundedcorner_filtersearch.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/roundedcouponbtn.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/roundedloginbtn.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/roundedstroke.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/seek_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/seek_thumb.xml" value="0.1515" />
+        <entry key="app/src/main/res/drawable/selected_categorybackground.xml" value="0.137" />
+        <entry key="app/src/main/res/drawable/switch_background.xml" value="0.2185" />
+        <entry key="app/src/main/res/drawable/timerbar_gradientbackground.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/usermsgbackground.xml" value="0.137" />
+        <entry key="app/src/main/res/layout/action_sharelayout.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_applycoupon.xml" value="0.4498279056033573" />
+        <entry key="app/src/main/res/layout/activity_chatnotification.xml" value="0.25570220947265626" />
+        <entry key="app/src/main/res/layout/activity_chatscreen.xml" value="0.3605015673981191" />
+        <entry key="app/src/main/res/layout/activity_connect.xml" value="0.2483342488606771" />
+        <entry key="app/src/main/res/layout/activity_listener_applyinghelp.xml" value="0.43570709228515625" />
+        <entry key="app/src/main/res/layout/activity_listener_applyinghelp2.xml" value="0.24509803921568626" />
+        <entry key="app/src/main/res/layout/activity_listener_profile.xml" value="0.1840713500976563" />
+        <entry key="app/src/main/res/layout/activity_listener_profiledetail.xml" value="0.3010482461291444" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17024160531850963" />
+        <entry key="app/src/main/res/layout/activity_playmusic.xml" value="0.2497991808226188" />
+        <entry key="app/src/main/res/layout/activity_privacypolicy.xml" value="0.35446685878962536" />
+        <entry key="app/src/main/res/layout/activity_raiseticket.xml" value="0.3679547840305296" />
+        <entry key="app/src/main/res/layout/activity_ratingandreviews.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/activity_referearn.xml" value="0.265093994140625" />
+        <entry key="app/src/main/res/layout/activity_reportproblem.xml" value="0.19536132812499987" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1732899983723958" />
+        <entry key="app/src/main/res/layout/activity_termsandconditions.xml" value="0.14479166666666668" />
+        <entry key="app/src/main/res/layout/activity_userfilter.xml" value="0.26878116582733347" />
+        <entry key="app/src/main/res/layout/activity_usergender.xml" value="0.24309743245442705" />
+        <entry key="app/src/main/res/layout/activity_userlogin.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_userotpverification.xml" value="0.19012908935546877" />
+        <entry key="app/src/main/res/layout/activity_userselectcategory.xml" value="0.14108886718750002" />
+        <entry key="app/src/main/res/layout/activity_usersignup.xml" value="0.1808331193595097" />
+        <entry key="app/src/main/res/layout/bottomshseet_timerlisting.xml" value="0.20260416666666667" />
+        <entry key="app/src/main/res/layout/content_listenermain.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.17962962962962964" />
+        <entry key="app/src/main/res/layout/content_usermain.xml" value="0.11708860759493671" />
+        <entry key="app/src/main/res/layout/custom_progress_dialog.xml" value="0.24157867431640626" />
+        <entry key="app/src/main/res/layout/customspinnerlayout.xml" value="0.2296875" />
+        <entry key="app/src/main/res/layout/dialog_couponapplied.xml" value="0.2180465698242188" />
+        <entry key="app/src/main/res/layout/dialog_listener_callacceptreject.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/dialog_listeneraccount_applied.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/expandable_list1.xml" value="0.35633900960286463" />
+        <entry key="app/src/main/res/layout/expandable_list2.xml" value="0.13802083333333334" />
+        <entry key="app/src/main/res/layout/fragment_listenerhome.xml" value="0.21884265246691997" />
+        <entry key="app/src/main/res/layout/fragment_listenermusic.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_listenersettings.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_listenerwallet.xml" value="0.1884799712879744" />
+        <entry key="app/src/main/res/layout/fragment_userhome.xml" value="0.21709006928406466" />
+        <entry key="app/src/main/res/layout/fragment_usermusic.xml" value="0.1453125" />
+        <entry key="app/src/main/res/layout/fragment_usersettings.xml" value="0.23503265380859373" />
+        <entry key="app/src/main/res/layout/fragment_userwallet.xml" value="0.2692169189453125" />
+        <entry key="app/src/main/res/layout/headerlayout.xml" value="0.2872833251953125" />
+        <entry key="app/src/main/res/layout/home_m_inactive.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/listenerdashboard_activity.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/notification_music_layout.xml" value="0.17692307692307693" />
+        <entry key="app/src/main/res/layout/row_amountselection.xml" value="0.24836730957031256" />
+        <entry key="app/src/main/res/layout/row_categoryselection.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/row_coupons.xml" value="0.38457489013671875" />
+        <entry key="app/src/main/res/layout/row_friend_msg.xml" value="0.3248587570621469" />
+        <entry key="app/src/main/res/layout/row_homeuserinnboxlisting.xml" value="0.2897420247395833" />
+        <entry key="app/src/main/res/layout/row_homeuserlisting.xml" value="0.2986378987630208" />
+        <entry key="app/src/main/res/layout/row_listenerpaymentwallet.xml" value="0.32777557373046873" />
+        <entry key="app/src/main/res/layout/row_listenerprofile_detail.xml" value="0.45380096435546874" />
+        <entry key="app/src/main/res/layout/row_muscishorizontalrv.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/row_musiclist.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/row_ratingandreview.xml" value="0.2998891194661459" />
+        <entry key="app/src/main/res/layout/row_timer.xml" value="0.3439310709635417" />
+        <entry key="app/src/main/res/layout/row_user_msg.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.3012294239226669" />
+        <entry key="app/src/main/res/layout/toolbarlayout.xml" value="0.26142628987630206" />
+        <entry key="app/src/main/res/layout/userdashboard_activity.xml" value="0.17962962962962964" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/menu/user_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2497991808226188" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

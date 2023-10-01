@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75505806289",
+    "project_id": "rewardbazaar-4d1c6",
+    "storage_bucket": "rewardbazaar-4d1c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75505806289:android:780f59b98d3d912bbe4ef0",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75505806289-3gfbasgfqqm9255g73gr55kadi7tsrc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo",
+            "certificate_hash": "7f2a23a30af8ee823454610e5c378c2a0b43924f"
+          }
+        },
+        {
+          "client_id": "75505806289-efjqch7h2kjr9tplsu4r9ke2cm4kjd21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLodvtOnDkuOBxZHhDJ3j04rcehUSgA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75505806289-efjqch7h2kjr9tplsu4r9ke2cm4kjd21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
